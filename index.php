@@ -41,7 +41,7 @@
                     ?>
 
                     <div class="card-body">
-                        <form action="process.php" method="post">
+                        <form action="Process.php" method="post">
                             <input type="text" name="UName" placeholder=" User Name" class="form-control mb-3">
                             <input type="password" name="Password" placeholder=" Password" class="form-control mb-3">
                             <div class="text-center"> 
